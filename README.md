@@ -23,8 +23,7 @@ This project explores the power of AI-driven image generation using **Stable Dif
 ---
 ## **Demo Images**
 
-![image](https://github.com/user-attachments/assets/50207c8d-ef4c-4ba2-985e-05b6935bf590)
-
+![Image](https://github.com/user-attachments/assets/11d61039-20cf-4e40-a600-65501d341941)
 ## Workflow of Image to Image generation
 
 ![image](https://github.com/user-attachments/assets/536f964c-8f69-42f9-b585-278e7df69a38)
